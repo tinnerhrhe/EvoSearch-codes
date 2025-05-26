@@ -14,6 +14,12 @@
       alt="EvoSearch Paper on arXiv"
     />
   </a>
+  <a href="https://x.com/tinner_he/status/1926939246876614735">
+    <img
+      src="https://img.shields.io/badge/EvoSearch-Threads-red?logo=X&logoColor=black"
+      alt="EvoSearch twitter"
+    />
+  </a>
 </p>
 
 # Scaling Image and Video Generation via Test-Time Evolutionary Search
