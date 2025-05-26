@@ -39,19 +39,21 @@ conda create -n evosearch python=3.9.0 -y
 conda activate evosearch
 pip install -r requirements.txt
 ```
-You can try evosearch on Stable Diffusion 2.1 by the following commands
+You can try evosearch on Stable Diffusion 2.1 by the following commands.
 ```
 cd SD2.1
 python evosearch.py --guidance_reward ImageReward --evolution_schedule 0 20 30 40 --population_size_schedule 42 26 26 26 30
 ``` 
 Guidance reward function is pre-defined for search, while evolution schedule and population size schedule can be freely chosen considering available test-time computation budget.
 ## 📮 TODO
-- [ ] Release codes of evosearch on FLUX.1-dev for image generaion.
-- [ ] Release codes of evosearch on Wan and Hunyuan for video generation.
+
+More codes will come soon! Stay tuned!
+- [ ] Release the codes of EvoSearch on FLUX.1-dev for image generation.
+- [ ] Release the codes of EvoSearch on Wan and Hunyuan for video generation.
 - [X] Release codes of evosearch on Stable Diffusion 2.1 for a quick example.
 
 ## 👍 Acknowledgement
-We thank the following open-source work:
+We thank the following open-source works:
 [Stable Diffusion](https://github.com/Stability-AI/stablediffusion)
 [FLUX](https://github.com/black-forest-labs/flux) 
 [Wan-Video](https://github.com/Wan-Video)
