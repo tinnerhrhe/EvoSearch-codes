@@ -54,12 +54,19 @@ More codes will come soon! Stay tuned!
 
 ## 👍 Acknowledgement
 We thank the following open-source works:
+
 [Stable Diffusion](https://github.com/Stability-AI/stablediffusion)
+
 [FLUX](https://github.com/black-forest-labs/flux) 
+
 [Wan-Video](https://github.com/Wan-Video)
+
 [HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo)
+
 [FK-Diffusion-Steering](https://github.com/zacharyhorvitz/Fk-Diffusion-Steering)
+
 [Diffusion Alignment as Sampling](https://github.com/krafton-ai/DAS)
+
 ## 📜 Citation
 If you find our work helpful, please kindly cite our paper:
 ```
