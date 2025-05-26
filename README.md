@@ -39,7 +39,7 @@ conda create -n evosearch python=3.9.0 -y
 conda activate evosearch
 pip install -r requirements.txt
 ```
-You can try evosearch on Stable Diffusion 2.1 by the following commands.
+You can try evosearch on Stable Diffusion 2.1 via the following commands.
 ```
 cd SD2.1
 python evosearch.py --guidance_reward ImageReward --evolution_schedule 0 20 30 40 --population_size_schedule 42 26 26 26 30
@@ -59,6 +59,7 @@ We thank the following open-source works:
 [Wan-Video](https://github.com/Wan-Video)
 [HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo)
 [FK-Diffusion-Steering](https://github.com/zacharyhorvitz/Fk-Diffusion-Steering)
+[Diffusion Alignment as Sampling](https://github.com/krafton-ai/DAS)
 ## 📜 Citation
 If you find our work helpful, please kindly cite our paper:
 ```
