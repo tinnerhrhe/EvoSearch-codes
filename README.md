@@ -87,4 +87,4 @@ If you find our work helpful, please kindly cite our paper:
 ```
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=tinnerhrhe/EvoSearch-codes&type=Date)](https://star-history.com/#tinnerhrhe/EvoSearch&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=tinnerhrhe/EvoSearch-codes&type=Date)](https://star-history.com/#tinnerhrhe/EvoSearch-codes&Date)
