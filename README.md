@@ -50,7 +50,7 @@ You can try evosearch on Stable Diffusion 2.1 via the following commands.
 cd SD2.1
 python evosearch.py --guidance_reward ImageReward --evolution_schedule 0 20 30 40 --population_size_schedule 42 26 26 26 30
 ``` 
-Guidance reward function is pre-defined for search, while evolution schedule and population size schedule can be freely chosen considering available test-time computation budget.
+Guidance reward function is pre-defined for search, while evolution schedule and population size schedule can be freely chosen, considering the available test-time computation budget.
 ## 📮 TODO
 
 More codes will come soon! Stay tuned!
@@ -87,4 +87,4 @@ If you find our work helpful, please kindly cite our paper:
 ```
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=tinnerhrhe/EvoSearch-codes&type=Date)](https://star-history.com/#hpcaitech/Open-Sora&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=tinnerhrhe/EvoSearch-codes&type=Date)](https://star-history.com/#tinnerhrhe/EvoSearch&Date)
