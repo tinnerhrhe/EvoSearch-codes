@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="BAGEL" width="480"/>
+  <img src="assets/logo.png" alt="logo" width="480"/>
 </p>
 <p align="center">
   <a href="https://tinnerhrhe.github.io/evosearch/">
