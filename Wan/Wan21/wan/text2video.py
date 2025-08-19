@@ -482,6 +482,7 @@ class WanT2VEvol:
                         verifier=verifier,
                         generator=generator,
                         offload_model=False,
+                        generation_steps=generation_steps
                         )
                     generation_steps += 1
                     print('Updated best reward',self.best_reward)
