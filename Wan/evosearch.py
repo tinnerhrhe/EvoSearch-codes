@@ -27,7 +27,7 @@ def get_args():
     parser.add_argument('--seed', type=int, default=42, help='Random seed to determine the initial latent.')
     parser.add_argument('--device', type=str, default='cuda', help='Device where the model inference is performed.')
     parser.add_argument('--model_name', type=str, default='Wan-AI/Wan2.1-T2V-1.3B-Diffusers', help='pre-trained model name')
-    parser.add_argument('--model_path', type=str, default='/m2v_intern/hehaoran/rfpp/video_search/Wan2.1-T2V-1.3B', help='pre-trained model name')
+    parser.add_argument('--model_path', type=str, default='path/video_search/Wan2.1-T2V-1.3B', help='pre-trained model name')
     parser.add_argument('--prompt_path', type=str, default='./DrawBench_Prompts.csv', help='prompt file path')
     parser.add_argument('--save_dir', type=str, default='./evol-test', help='Path to save the generated images.')
     parser.add_argument('--dimension', type=str, default='composition', help='Path to save the generated images.')
